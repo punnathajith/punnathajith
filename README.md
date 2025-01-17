@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://punnathajith.io)
 <h1 align="center">Hi 👋, I'm Ajith Punnath</h1>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"alt="logo" >
+
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" width="400"; src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif"alt="logo" >
 
@@ -29,6 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punnathajith&show_icons=true&locale=en&layout=compact" alt="punnathajith" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punnathajith&show_icons=true&locale=en" alt="punnathajith" /></p>
+
+<img align="center" width="100vh" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"alt="logo" >
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punnathajith&" alt="punnathajith" /></p>
 
