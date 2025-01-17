@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punnathajith&show_icons=true&locale=en" alt="punnathajith" /></p>
 
-<img align="center" width="100vh" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"alt="logo"/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punnathajith&" alt="punnathajith" /></p>
 
